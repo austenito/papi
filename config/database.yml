@@ -1,13 +1,9 @@
 development:
   adapter: postgresql
   database: papi_development
-  username: postgres
-  password: postgres
   host: localhost
 
 test:
   adapter: postgresql
   database: papi_development
-  username: postgres
-  password: postgres
   host: localhost

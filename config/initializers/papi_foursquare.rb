@@ -1,0 +1,4 @@
+PapiFoursquare.setup do |config|
+  config.client_id = "SULN0XJXA3X1NYVIIRHVUKAJTPXCKINSI0WDHZLPZUEFC4M2"
+  config.client_secret = "P1V4OT452O4AJDZWGLRVGBXAGRDMJZ24ZEWML0ZNHYEXS5DJ"
+end
